@@ -14,7 +14,7 @@
     <img aling="center" height="40" width="50" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img aling="center" height="40" width="50" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img aling="center" height="40" width="50" alt=""           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img aling="center" height="40" width="50" alt="" src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg">
+    <img aling="center" height="40" width="50" alt="" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png">
 </div>
 
 ##
