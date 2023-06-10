@@ -1,6 +1,6 @@
 <h1> Julia Tagliari </h1>
 
-- 💻 Cursando Bacharelado de Sistemas de Informação na UNIRIO
+- 💻 Cursando Bacharelado em Sistemas de Informação - UNIRIO
 - 📭 julia.tagliari@hotmail.com
 
 ##
