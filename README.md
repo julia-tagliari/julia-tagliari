@@ -15,6 +15,7 @@
     <img aling="center" height="40" width="50" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img aling="center" height="40" width="50" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img aling="center" height="40" width="50" alt="" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png">
+    <img aling ="center" height="40" width="50" alt="" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
 
 ##
