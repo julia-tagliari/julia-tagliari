@@ -18,6 +18,7 @@
     <img align="center" height="40" width="50" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
     <img align="center" height="40" width="50" alt="" src="https://cms-informatic.com/wp-content/uploads/2020/01/logo-langage-C.png">
     <img align="center" height="40" width="50" alt="" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+    <img align="center" height="40" width="40" alt="" src="https://static-00.iconduck.com/assets.00/sql-database-generic-icon-1521x2048-d0vdpxpg.png">
 </div>
 
 ##
